@@ -1,0 +1,7 @@
+[project]
+name = "genpark-audit-log-tamper-evident-hash-chain-and-merkle-tree-skill"
+version = "1.0.0"
+description = "Append-only cryptographic hash chain, Merkle tree root generator, and tamper-evident enterprise compliance ledger"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = []
